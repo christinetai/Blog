@@ -1,4 +1,4 @@
-## Welcome to :) 's blog
+## Welcome to :) 's Blog
 
 ![Image](https://s-media-cache-ak0.pinimg.com/736x/48/bd/3f/48bd3f6e928d7cb4b8d499cb0f96b8a8--despicable-minions-funny-minion.jpg)
 
@@ -10,18 +10,28 @@ Hello! Welcome to my newly made blog! I am kind of an awkward person, but oh wel
 
 # _2017_
 ```markdown
-- Taiwan
+- Taiwan:
+  ~Kenting
+  ~YiLan
+  ~Taipei
+  ~Alishan
 - Canada
 ```
 
 # _2016_
 ```
 - Taiwan
+  ~Kenting
+  ~YiLan
+  ~Taipei
+  ~Changhua
 ```
 
 # _2009_
 ```
 - Taiwan
+  ~Taipei
+  ~Hualien
 - Hong Kong
 ```
 
