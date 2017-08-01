@@ -1,3 +1,4 @@
+{{ site.baseurl }}{% link _posts/Day-1.md %}
 #Day 1
 
 ##Landing in Taoyuan
