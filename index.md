@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to :) 's blog
 
-You can use the [editor on GitHub](https://github.com/christinetai/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://s-media-cache-ak0.pinimg.com/736x/48/bd/3f/48bd3f6e928d7cb4b8d499cb0f96b8a8--despicable-minions-funny-minion.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! Welcome to my newly made blog! I am kind of an awkward person, but oh well! First things first, I have no idea how this works. I legit have no clue what I am doing. But oh well.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Places I Have Traveled
 
+
+# _2017_
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Taiwan
+- Canada
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# _2016_
+```
+- Taiwan
+```
 
-### Jekyll Themes
+# _2009_
+```
+- Taiwan
+- Hong Kong
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinetai/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](http://asiaoptions.org/wp-content/uploads/2015/07/taiwansmaller.jpg)
