@@ -10,7 +10,7 @@ where I can with the materials that I have handy.
 
 
 # _Banana Bread_
-```markdown
+```
 INGREDIENTS
 ⅓ cup melted coconut oil or extra-virgin olive oil or high quality vegetable oil*
 ½ cup honey or maple syrup
@@ -24,7 +24,7 @@ INGREDIENTS
 1 ¾ cups white whole wheat flour or regular whole wheat flour
 Totally optional: ½ cup mix-ins like chopped walnuts or pecans, chocolate chips, raisins, chopped dried fruit, fresh banana slices…
 
-​INSTRUCTIONS
+INSTRUCTIONS
 Preheat oven to 325 degrees Fahrenheit (165 degrees Celsius) and grease a 9×5-inch loaf pan.
 In a large bowl, beat the oil and honey together together with a whisk. Add the eggs and beat well, then whisk in the mashed bananas and milk. (If your coconut oil solidifies on contact with cold ingredients, simply let the bowl rest in a warm place for a few minutes, like on top of your stove, or warm it for about 10 seconds in the microwave.)
 Add the baking soda, vanilla, salt and cinnamon, and whisk to blend. Lastly, switch to a big spoon and stir in the flour, just until combined. Some lumps are ok! If you’re adding any additional mix-ins, gently fold them in now.
@@ -72,9 +72,9 @@ Ingredients
 2 cups chicken broth
 1/3 pound green beans, trimmed and cut into 1-inch pieces
 2 cups diced cooked chicken
-Salt and pepper​
+Salt and pepper
 
-Directions​​
+Directions
 In a large saucepan, melt butter over medium-high. Add onion, celery, and carrots and cook until onion is translucent, about 4 minutes. Add flour and cook, stirring, 1 minute. Gradually add broth, stirring constantly, then bring to a boil. Reduce heat and simmer 5 minutes. Stir in green beans and chicken and season with salt and pepper.
 Divide filling among four 8-ounce ramekins. Roll out 1 sheet puff pastry and cut 4 rounds to fit ramekins. Cut a small X in center of each to vent, then place on top of filling. Brush with beaten egg. Bake at 375 degrees until filling is bubbling and crust is golden, 30 to 40 minutes.
 ```
