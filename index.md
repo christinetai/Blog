@@ -105,10 +105,9 @@
 
 ##### Notes
 > Can subsitute honey for sugar
->
-> I used around 1/2 cup sugar
+> > I used around 1/2 cup sugar
+> The more zucchini or bananas you add, the less milk you need to add
 > > Can just use water instead of milk
-> The more zucchini or bananas you add, the less liquid you need to add
 
 #### DIRECTIONS
 1. Preheat oven to 350 degrees. Lightly coat 12 standard muffin cups with cooking spray. 
