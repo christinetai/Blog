@@ -13,7 +13,7 @@
 ![Banana Bread](http://hiddenponies.com/wp-content/uploads/2016/08/5-banana-loaf-7-900x732.jpg)
 
 #### INGREDIENTS
-* ⅓ cup melted coconut oil or extra-virgin olive oil or high quality vegetable oil*
+* ⅓ cup melted coconut oil or extra-virgin olive oil or high quality vegetable oil
 * ½ cup honey or maple syrup
 * 2 eggs
 * 1 cup mashed ripe bananas (about 2 ½ medium or 2 large bananas)
@@ -38,7 +38,7 @@
 ![Cookies](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F2012-r-xl-lemon-shortbread-cookies.jpg%3Fitok%3DA0k-AmtD&w=700&q=85)
 
 #### INGREDIENTS
-* 2 sticks unsalted butter, at room temperature (1 cup/8 ounces)
+* 2 sticks unsalted butter, at room temperature (1 cup or 8 ounces)
 * 1 cup sugar
 * 1 teaspoon vanilla extract
 * 1 3/4 cups all-purpose flour
@@ -80,9 +80,18 @@
 * 2 cups diced cooked chicken
 * Salt and pepper
 
+##### Notes
+> Make the above pie crust to finish off your chicken pot pie!
+
 #### DIRECTIONS
-1. In a large saucepan, melt butter over medium-high. Add onion, celery, and carrots and cook until onion is translucent, about 4 minutes. Add flour and cook, stirring, 1 minute. Gradually add broth, stirring constantly, then bring to a boil. Reduce heat and simmer 5 minutes. Stir in green beans and chicken and season with salt and pepper.
-2. Divide filling among four 8-ounce ramekins. Roll out 1 sheet puff pastry and cut 4 rounds to fit ramekins. Cut a small X in center of each to vent, then place on top of filling. Brush with beaten egg. Bake at 375 degrees until filling is bubbling and crust is golden, 30 to 40 minutes.
+1. In a large saucepan, melt butter over medium-high. 
+2. Add onion, celery, and carrots and cook until onion is translucent, about 4 minutes. 
+3. Add flour and cook, stirring, 1 minute. 
+4. Gradually add broth, stirring constantly, then bring to a boil. Reduce heat and simmer 5 minutes. 
+5. Stir in green beans and chicken and season with salt and pepper.
+6. Divide filling among four 8-ounce ramekins. 
+7. Roll out 1 sheet puff pastry (or your own freshly made pie crust!) and cut 4 rounds to fit ramekins. Cut a small X in center of each to vent, then place on top of filling. Brush with beaten egg. 
+8. Bake at 375 degrees until filling is bubbling and crust is golden, 30 to 40 minutes.
 
 ***
 
@@ -92,7 +101,7 @@
 #### INGREDIENTS
 * 1 3/4 cups all-purpose flour (spooned and leveled)
 * 1/2 cup ground flaxseed
-* 1 cup lightly packed light-brown sugar     _> (I used around 1/2 cup)_
+* 1 cup lightly packed light-brown sugar
 > Can subsitute honey for sugar
 > > I used around 1/2 cup sugar
 * 2 teaspoons baking soda
@@ -107,12 +116,6 @@
 * 1 large egg, lightly beaten
 * 1 teaspoon pure vanilla extract
 
-##### Notes
-> Can subsitute honey for sugar
-> > I used around 1/2 cup sugar
->
-> The more zucchini or bananas you add, the less milk you need to add
-> > Can just use water instead of milk
 
 #### DIRECTIONS
 1. Preheat oven to 350 degrees. Lightly coat 12 standard muffin cups with cooking spray. 
