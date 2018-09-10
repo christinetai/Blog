@@ -92,7 +92,7 @@
 #### INGREDIENTS
 * 1 3/4 cups all-purpose flour (spooned and leveled)
 * 1/2 cup ground flaxseed
-* 1 cup lightly packed light-brown sugar
+* 1 cup lightly packed light-brown sugar > (I used around 1/2 cup)
 * 2 teaspoons baking soda
 * 1 teaspoon baking powder
 * 1/2 teaspoon coarse salt
