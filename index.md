@@ -107,7 +107,7 @@
 > Can subsitute honey for sugar
 >
 > I used around 1/2 cup sugar
-> Can just use water instead of milk
+> > Can just use water instead of milk
 > The more zucchini or bananas you add, the less liquid you need to add
 
 #### DIRECTIONS
