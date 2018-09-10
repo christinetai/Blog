@@ -92,7 +92,7 @@
 #### INGREDIENTS
 * 1 3/4 cups all-purpose flour (spooned and leveled)
 * 1/2 cup ground flaxseed
-* 1 cup lightly packed light-brown sugar > (I used around 1/2 cup)
+* 1 cup lightly packed light-brown sugar     _> (I used around 1/2 cup)_
 * 2 teaspoons baking soda
 * 1 teaspoon baking powder
 * 1/2 teaspoon coarse salt
@@ -103,6 +103,10 @@
 * 1 large egg, lightly beaten
 * 1 teaspoon pure vanilla extract
 
+##### Notes
+> Can subsitute honey for sugar
+> I used around 1/2 cup sugar
+> The more zucchini or bananas you add, the less water you need
 
 #### DIRECTIONS
 1. Preheat oven to 350 degrees. Lightly coat 12 standard muffin cups with cooking spray. 
