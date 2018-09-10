@@ -35,6 +35,7 @@
 * * *
 
 # _Short Bread Cookies_
+![Cookies](https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F2012-r-xl-lemon-shortbread-cookies.jpg%3Fitok%3DA0k-AmtD&w=700&q=85)
 
 #### INGREDIENTS
 * 2 sticks unsalted butter, at room temperature (1 cup/8 ounces)
@@ -51,6 +52,7 @@
 * * *
 
 # _Pie Crust_
+![crust](https://images-gmi-pmc.edge-generalmills.com/2baa8b57-d500-4a7f-8eeb-26634931a8fa.jpg)
 
 #### INGREDIENTS
 * 1 1/4 cups all-purpose flour
@@ -65,6 +67,7 @@
 * * *
 
 # _Chicken Pot Pie_
+![pot pie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OJ1BN3X76AwCqMN4zep4-z58KInms_C9uYn24D4Sr0_9dHtk)
 
 #### INGREDIENTS
 * 3 tablespoons unsalted butter
@@ -84,6 +87,7 @@
 ***
 
 # _Banana Zucchini Muffins_
+![muffins](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cBcCbsmtl9qYE9otADkwjQuHZtvVEWEfnGxaB0OuKbIwMbQI)
 
 #### INGREDIENTS
 * 1 3/4 cups all-purpose flour (spooned and leveled)
