@@ -1,4 +1,4 @@
-## Welcome to tineytai's Blog
+## Welcome to tineytai's Recipes
 
 ![Image](https://s-media-cache-ak0.pinimg.com/736x/48/bd/3f/48bd3f6e928d7cb4b8d499cb0f96b8a8--despicable-minions-funny-minion.jpg)
 
@@ -12,7 +12,7 @@ where I can with the materials that I have handy.
 # _Banana Bread_
 ```
 INGREDIENTS
-⅓ cup melted coconut oil or extra-virgin olive oil or high quality vegetable oil*
+* ⅓ cup melted coconut oil or extra-virgin olive oil or high quality vegetable oil*
 ½ cup honey or maple syrup
 2 eggs
 1 cup mashed ripe bananas (about 2 ½ medium or 2 large bananas)
