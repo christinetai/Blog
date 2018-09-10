@@ -10,7 +10,7 @@
 * * *
 
 # _Banana Bread_
-![Octocat](http://hiddenponies.com/wp-content/uploads/2016/08/5-banana-loaf-7-900x732.jpg)
+![Banana Bread](http://hiddenponies.com/wp-content/uploads/2016/08/5-banana-loaf-7-900x732.jpg)
 
 #### INGREDIENTS
 * ⅓ cup melted coconut oil or extra-virgin olive oil or high quality vegetable oil*
