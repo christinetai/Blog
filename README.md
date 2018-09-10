@@ -2,5 +2,5 @@
 tineytai's favorite recipes
 
 # Live Link
-https://christinetai.github.io/Recipes
+https://christinetai.github.io/Recipes/
 
