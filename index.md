@@ -1,6 +1,7 @@
+![Cooking](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIyz-8jkJYvB937us09-yD37T14deWP2043wlisS2TFSRodISKQ)
 ## Welcome to tineytai's Recipes
 
-![Image](https://s-media-cache-ak0.pinimg.com/736x/48/bd/3f/48bd3f6e928d7cb4b8d499cb0f96b8a8--despicable-minions-funny-minion.jpg)
+![Minion](https://s-media-cache-ak0.pinimg.com/736x/48/bd/3f/48bd3f6e928d7cb4b8d499cb0f96b8a8--despicable-minions-funny-minion.jpg)
 
 > Hello! Here are some of my favorite recipes to make! I tend to alter the amount of oil/butter/fats and sugar, or subsitute where I can with the materials that I have handy.
 
@@ -125,4 +126,4 @@
 
 * * *
 
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsMw9bT31moTaon7Ud0-0P_x54hkSkdbKxNAYM6QkcHHh0eOO) ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2T_he5g1zysLhtBqn4hcbJS9ICGztucLi_0SzEaIfGKxo22wXlg) ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIyz-8jkJYvB937us09-yD37T14deWP2043wlisS2TFSRodISKQ)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsMw9bT31moTaon7Ud0-0P_x54hkSkdbKxNAYM6QkcHHh0eOO) ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2T_he5g1zysLhtBqn4hcbJS9ICGztucLi_0SzEaIfGKxo22wXlg)
