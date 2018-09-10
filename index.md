@@ -93,6 +93,8 @@
 * 1 3/4 cups all-purpose flour (spooned and leveled)
 * 1/2 cup ground flaxseed
 * 1 cup lightly packed light-brown sugar     _> (I used around 1/2 cup)_
+> Can subsitute honey for sugar
+> > I used around 1/2 cup sugar
 * 2 teaspoons baking soda
 * 1 teaspoon baking powder
 * 1/2 teaspoon coarse salt
@@ -100,12 +102,15 @@
 * 1 1/2 cups coarsely grated zucchini (from 1 large zucchini)
 * 1/3 cup mashed ripe banana (from 1 large banana)
 * 3/4 cup whole milk
+> The more zucchini or bananas you add, the less milk you need to add
+> > Can just use water instead of milk
 * 1 large egg, lightly beaten
 * 1 teaspoon pure vanilla extract
 
 ##### Notes
 > Can subsitute honey for sugar
 > > I used around 1/2 cup sugar
+>
 > The more zucchini or bananas you add, the less milk you need to add
 > > Can just use water instead of milk
 
