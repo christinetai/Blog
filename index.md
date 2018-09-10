@@ -105,7 +105,9 @@
 
 ##### Notes
 > Can subsitute honey for sugar
+>
 > I used around 1/2 cup sugar
+>
 > The more zucchini or bananas you add, the less water you need
 
 #### DIRECTIONS
