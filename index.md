@@ -1,5 +1,5 @@
 ## Welcome to tineytai's Recipes
-
+name: Christine Tai
 ![Minion](https://s-media-cache-ak0.pinimg.com/736x/48/bd/3f/48bd3f6e928d7cb4b8d499cb0f96b8a8--despicable-minions-funny-minion.jpg)
 
 > Hello! Here are some of my favorite recipes to make! I tend to alter the amount of oil/butter/fats and sugar, or subsitute where I can with the materials that I have handy.
