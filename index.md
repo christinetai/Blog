@@ -4,6 +4,8 @@
 
 > Hello! Here are some of my favorite recipes to make! I tend to alter the amount of oil/butter/fats and sugar, or subsitute where I can with the materials that I have handy.
 
+* * *
+* * *
 
 # Recipes
 ![Cooking](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaIyz-8jkJYvB937us09-yD37T14deWP2043wlisS2TFSRodISKQ)
