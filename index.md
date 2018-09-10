@@ -31,21 +31,23 @@ where I can with the materials that I have handy.
 4. Pour the batter into your greased loaf pan and sprinkle lightly with cinnamon. If you’d like a pretty swirled effect, run the tip of a knife across the batter in a zig-zag pattern.
 5. Bake for 55 to 60 minutes, or until a toothpick inserted into the center comes out clean (typically, if I haven’t added any mix-ins, my bread is done at 55 minutes; if I have added mix-ins, it needs closer to 60 minutes). Let the bread cool in the loaf pan for 10 minutes, then transfer it to a wire rack to cool for 20 minutes before slicing.
 
+* * *
 
 # _Short Bread Cookies_
-```
-Ingredients
-2 sticks unsalted butter, at room temperature (1 cup/8 ounces)
-1 cup sugar
-1 teaspoon vanilla extract
-1 3/4 cups all-purpose flour
-1/4 teaspoon salt
 
-Directions
-Preheat the oven to 350 degrees F.
-Place the butter, sugar and vanilla in a large bowl, and beat with an electric mixer until it looks combined, light, and fluffy. Add the flour and salt, and mix until it’s crumbly and looks like it can’t be mixed more.  
-Bake the cookies for 15 minutes or until lightly golden. Let them cool completely, and enjoy!
-```
+#### Ingredients
+* 2 sticks unsalted butter, at room temperature (1 cup/8 ounces)
+* 1 cup sugar
+* 1 teaspoon vanilla extract
+* 1 3/4 cups all-purpose flour
+* 1/4 teaspoon salt
+
+#### Directions
+1. Preheat the oven to 350 degrees F.
+2. Place the butter, sugar and vanilla in a large bowl, and beat with an electric mixer until it looks combined, light, and fluffy. Add the flour and salt, and mix until it’s crumbly and looks like it can’t be mixed more.  
+3. Bake the cookies for 15 minutes or until lightly golden. Let them cool completely, and enjoy!
+
+* * *
 
 # _Pie Crust_
 ```
