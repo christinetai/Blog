@@ -1,2 +1,2 @@
-# blog
-This is a practice blog
+# Recipes
+tineytai's favorite recipes
